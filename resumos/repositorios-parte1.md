@@ -7,6 +7,7 @@
 
 ## Salvando alterações no repositório local:
 
+- ```touch <nome-do-arquivo.md>```: cria o arquivo em branco dentro da pasta;
 - ```git status```: mostra o status da árvore de trabalho e da área de preparação;
 - ```git add README```: adicionar o arquivo na área de preparação;
 - ```git commit -m “commit inicial”```: salvar alterações dentro de um commit;
